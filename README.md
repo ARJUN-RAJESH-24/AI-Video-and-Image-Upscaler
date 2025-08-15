@@ -92,9 +92,6 @@ Open index.html in a browser
 
 It automatically connects to the backend
 
-📸 Preview
-
-(Add screenshots or demo GIF here)
 
 📜 License
 
