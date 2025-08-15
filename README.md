@@ -79,14 +79,14 @@ Linux
 sudo apt-get install ffmpeg
 ```
 
-###2️⃣ Run the Backend Server
+2️⃣ Run the Backend Server
 ```text
 python app.py
 ```
 
 Server runs at → http://127.0.0.1:5000
 
-###3️⃣ Frontend Setup
+3️⃣ Frontend Setup
 
 Open index.html in a browser
 
@@ -96,11 +96,11 @@ It automatically connects to the backend
 
 (Add screenshots or demo GIF here)
 
-##📜 License
+📜 License
 
 Released under the MIT License – feel free to modify and share.
 
-##🤝 Contributing
+🤝 Contributing
 
 Pull requests are welcome.
 For major changes, open an issue to discuss your ideas.
@@ -108,6 +108,6 @@ For major changes, open an issue to discuss your ideas.
 <div align="center">
 
 
-##Built with ❤️ using AI + Python
+Built with ❤️ using AI + Python
 
 </div> 
